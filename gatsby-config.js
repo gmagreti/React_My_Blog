@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `My Blog Magreti Developer`,
+    position: `Front end Developer`,
     description: `A blog about frontend developer and other cool stuff`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
